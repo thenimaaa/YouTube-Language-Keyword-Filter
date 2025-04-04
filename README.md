@@ -1,9 +1,8 @@
 # YouTube Language Keyword Filter
-Easily filter videos based on languages and specific keywords.
 
 The "YouTube Language & Keyword Filter" is a powerful Firefox add-on designed to enhance your YouTube experience. It allows you to filter videos based on languages and specific keywords, enabling you to focus on content that interests you while hiding videos that don't meet your preferences.
 
-Key Features:
+# Key Features:
 
 • Language Filtering: The extension supports multiple languages, allowing users to hide videos in languages they do not wish to see.
 
