@@ -1,4 +1,4 @@
-# YouTube Language Keyword Filter
+#  YouTube Language & Keyword Filter
 
 The "YouTube Language & Keyword Filter" is a powerful Firefox add-on designed to enhance your YouTube experience. It allows you to filter (Block) videos based on languages and specific keywords, enabling you to focus on content that interests you while hiding videos that don't meet your preferences.
 
@@ -12,9 +12,9 @@ The "YouTube Language & Keyword Filter" is a powerful Firefox add-on designed to
 
 # Installation Guide
 
-To install the YouTube Language Keyword Filter extension, follow these steps:
+To install the  YouTube Language & Keyword Filter extension, follow these steps:
 
-1. Visit the Mozilla Add-ons website: [YouTube Language Keyword Filter](https://addons.mozilla.org/en-US/firefox/addon/youtube-language-filter/).
+1. Visit the Mozilla Add-ons website: [ YouTube Language & Keyword Filter](https://addons.mozilla.org/en-US/firefox/addon/youtube-language-filter/).
 2. Click the "Add to Firefox" button,
 3. Confirm the installation, A pop-up window will appear asking you to confirm the installation. Click "Add" to continue,
 4. Wait for the installation to complete, The extension will be installed and you will see a notification when it is complete.
